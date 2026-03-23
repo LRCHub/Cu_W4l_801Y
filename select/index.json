@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "House Across The Bay",
+  "base_artist": "George Strait",
+  "createdAt": "2026-03-23T15:56:26.494564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "House Across The Bay",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_House_Across_The_Bay_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House Across the Bay",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_House_Across_the_Bay_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House Across The Bay",
+      "artist": "Strait, George [US]",
+      "has_synced": true,
+      "path": "select/03_House_Across_The_Bay_Strait,_George_[US].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "House Across The Bay (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_House_Across_The_Bay_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "House Across The Bay",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/pl_01_House_Across_The_Bay_George_Strait.txt"
+    }
+  ]
+}
